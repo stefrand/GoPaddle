@@ -3,6 +3,9 @@
 
 This was my final project for my Automation and Scripting class at Augusta University.
 
+***Please note: The site's underlying HTML has changed and the script no longer works***
+But it is still a great example of my scripting and parsing skills
+
 I like whitewater kayaking and rafting!  www.americanwhitewater.org is the site
 to check when you want to go paddling. They have put together an amazing website
 full of amazing resources, including the current reading on USGS gauges so you
